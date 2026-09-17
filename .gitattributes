@@ -1,0 +1,15 @@
+
+*.sh text eol=lf
+
+*.md text eol=lf
+
+*.txt text eol=lf
+
+*.png binary
+
+*.pcapng binary
+
+*.pcap binary
+
+*.gns3project text eol=lf
+
