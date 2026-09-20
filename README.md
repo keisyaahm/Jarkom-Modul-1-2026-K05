@@ -1852,17 +1852,23 @@ nc 10.4.89.246 3402
 
 ## Screenshot
 
-```text
-15_01_wired_usb_hid_opened.png
-15_02_usb_vendor_product_id.png
-15_03_usb_device_address_final.png
-15_04_usb_hid_keystroke_packets.png
-15_04_usb_keystroke_nonzero_data.png
-15_05_usb_capdata_keystroke_detail.png
-15_06_extract_hid_data_tshark.png
-15_07_decode_secret_message_result.png
-15_08_socket_validation_usb_success.png
-```
+![15_01_wired_usb_hid_opened](assets/15_01_wired_usb_hid_opened.png)
+
+![15_02_usb_vendor_product_id](assets/15_02_usb_vendor_product_id.png)
+
+![15_03_usb_device_address_final](assets/15_03_usb_device_address_final.png)
+
+![15_04_usb_hid_keystroke_packets](assets/15_04_usb_hid_keystroke_packets.png)
+
+![15_04_usb_keystroke_nonzero_data](assets/15_04_usb_keystroke_nonzero_data.png)
+
+![15_05_usb_capdata_keystroke_detail](assets/15_05_usb_capdata_keystroke_detail.png)
+
+![15_06_extract_hid_data_tshark](assets/15_06_extract_hid_data_tshark.png)
+
+![15_07_decode_secret_message_result](assets/15_07_decode_secret_message_result.png)
+
+![15_08_socket_validation_usb_success](assets/15_08_socket_validation_usb_success.png)
 
 ---
 
